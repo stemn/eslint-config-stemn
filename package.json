@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-stemn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stemn/stemn-eslint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stemn/stemn-eslint/issues"
+  },
+  "homepage": "https://github.com/stemn/stemn-eslint#readme",
+  "dependencies": {
+    "eslint": "3.19.0",
+    "eslint-config-airbnb": "14.1.0",
+    "eslint-plugin-import": "2.2.0",
+    "eslint-plugin-jsx-a11y": "4.0.0",
+    "eslint-plugin-react": "6.9.0"
+  },
+  "_resolved": "",
+  "_integrity": "",
+  "_from": "eslint-config-stemn@git+https://git@github.com/stemn/eslint-config-stemn.git"
+}
